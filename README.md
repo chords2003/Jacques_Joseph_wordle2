@@ -2,20 +2,20 @@
 
 # Project 2 - *Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jacques Joseph**
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that matches generates words 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [* ] User can change the number of letters per row (the length of the goal word)
+- [ *] User can change the numbers of rows on the board (how many guesses allowed)
+- [ *] User can select a new themed set to pull the goal word from
+- [x ] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
@@ -31,6 +31,15 @@ The following **additional** features are implemented:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+<div>
+    <a href="https://www.loom.com/share/7e6a0f3733204445a08b3fea40960551">
+      Editing Jacques_Joseph_wordle2/README.md at main · chords2003/Jacques_Joseph_wordle2 - 5 March 2024 - Watch Video
+    </a>
+    <a href="https://www.loom.com/share/7e6a0f3733204445a08b3fea40960551">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7e6a0f3733204445a08b3fea40960551-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
