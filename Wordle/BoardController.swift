@@ -104,10 +104,10 @@ class BoardController: NSObject,
   // Tip 2: There is a corresponding property located in this file that you should assign the value of the setting to (look at the "Properties" section above).
   // Checkpoint: Correctly implementing this function should change the goal word each time the user inputs an entire row of letters
     private func applyIsAlienWordleSettings(with settings: [String: Any]) {
-        if let isAlienWorld = settings[kIsAlienWordleKey] as? Bool, isAlienWorld {
+        
             // If the setting is true, set the goal word to an alien-themed word
-            goalWord = WordGenerator.generateGoalWord(with: <#T##WordTheme#>)
+        
             // START YOUR CODE HERE
         }
-    }
+    
 }
