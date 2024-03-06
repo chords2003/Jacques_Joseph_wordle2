@@ -33,11 +33,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 <div>
-    <a href="https://www.loom.com/share/7e6a0f3733204445a08b3fea40960551">
-      Editing Jacques_Joseph_wordle2/README.md at main · chords2003/Jacques_Joseph_wordle2 - 5 March 2024 - Watch Video
+    <a href="https://www.loom.com/share/8046ee4a60f54a08ba7c80b041978c46">
+      Jacques_Joseph_wordle2/Wordle/BoardController.swift at main · chords2003/Jacques_Joseph_wordle2 - 5 March 2024 - Watch Video
     </a>
-    <a href="https://www.loom.com/share/7e6a0f3733204445a08b3fea40960551">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7e6a0f3733204445a08b3fea40960551-with-play.gif">
+    <a href="https://www.loom.com/share/8046ee4a60f54a08ba7c80b041978c46">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8046ee4a60f54a08ba7c80b041978c46-with-play.gif">
     </a>
   </div>
 
