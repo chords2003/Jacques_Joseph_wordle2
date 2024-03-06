@@ -50,7 +50,12 @@ class BoardController: NSObject,
   // Tip: Take a look at how resetBoard is implemented above. The only difference is that you don't want to change the settings
   func resetBoardWithCurrentSettings() {
     // START YOUR CODE HERE
-    // ...
+      applyNumLettersSettings(with: SettingsManager.shared.settingsDictionary)
+      applyNumGuessesSettings(with: SettingsManager.shared.settingsDictionary)
+      applyThemeSettings(with: SettingsManager.shared.settingsDictionary)
+      applyIsAlienWordleSettings(with: SettingsManager.shared.settingsDictionary)
+      numTimesGuessed = 0
+      collectionView.reloadData()
     // END YOUR CODE HERE
   }
   
@@ -105,7 +110,8 @@ class BoardController: NSObject,
   // Checkpoint: Correctly implementing this function should change the goal word each time the user inputs an entire row of letters
     private func applyIsAlienWordleSettings(with settings: [String: Any]) {
         
-            // If the setting is true, set the goal word to an alien-themed word
+        if let isAlienWordle = settings[kIsAlienWordleKey] as? Bool{
+            self.isAlienWordle = isAlienWordle;}
         
             // START YOUR CODE HERE
         }
